@@ -1,109 +1,149 @@
-﻿<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ceps12&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descSize=16&descAlignY=55" />
-</div>
-
-<!-- Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+beautiful+UIs;React+%E2%9A%9B%EF%B8%8F+Next.js+%E2%9A%9B%EF%B8%8F+TypeScript;CSS+Animations+%F0%9F%8E%A8+Kanban+Apps;Always+learning+something+new" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- About -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  About Me
-</h2>
-
+﻿<!-- Terminal Banner -->
 <div align="center">
 
-🎨 **Frontend Developer** crafting smooth UI/UX experiences  
-⚡ Passionate about **CSS animations**, **React ecosystems** & **clean code**  
-🚀 Love building **interactive apps** — from Kanban boards to animation galleries  
-📚 Currently exploring **Next.js**, **Zustand** & **advanced CSS**
+```
+    ╔══════════════════════════════════════════════════════════════╗
+    ║                                                              ║
+    ║   ██████╗███████╗██████╗ ███████╗ █████╗ ██████╗            ║
+    ║  ██╔════╝██╔════╝██╔══██╗██╔════╝██╔══██╗╚════██╗            ║
+    ║  ██║     █████╗  ██████╔╝███████╗███████║  ▄███╔╝            ║
+    ║  ██║     ██╔══╝  ██╔═══╝ ╚════██║██╔══██║  ▀▀══╝             ║
+    ║  ╚██████╗███████╗██║     ███████║██║  ██║  ██╗               ║
+    ║   ╚═════╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝  ╚═╝               ║
+    ║                                                              ║
+    ║              [ FRONTEND DEVELOPER TERMINAL v2.0 ]            ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&logo=statuspage&logoColor=00ff41&labelColor=0d1117">
+<img src="https://img.shields.io/badge/LOCATION-Earth--Online-00d4aa?style=flat-square&logo=google-earth&logoColor=00d4aa&labelColor=0d1117">
+<img src="https://img.shields.io/badge/MODE-Coding_...-ff00ff?style=flat-square&logo=powershell&logoColor=ff00ff&labelColor=0d1117">
 
 </div>
 
-<br>
+---
 
-<!-- Tech Stack -->
-<h2 align="center">🛠 Tech Stack</h2>
+```bash
+$ whoami
+```
+```
+> ceps12
+> Frontend Developer | React Enthusiast | CSS Animator
+> Building beautiful interfaces & smooth UX
+```
+
+```bash
+$ uptime
+```
+```
+> 24/7 — When not coding: thinking about code
+```
+
+```bash
+$ cat /etc/motd
+```
+```
+╔══════════════════════════════════════════════════╗
+║  "Any sufficiently advanced UI is indistinguishable  ║
+║   from magic."                                      ║
+╚══════════════════════════════════════════════════╝
+```
+
+---
+
+## <img src="https://img.shields.io/badge/$-ls_-la_~/skills/-00ff41?style=flat-square&logo=gnu-bash&logoColor=00ff41&labelColor=0d1117">
+
+```
+drwxr-xr-x  react          ████████████████████░░  90%
+drwxr-xr-x  nextjs         ██████████████████░░░░  85%
+drwxr-xr-x  typescript     ███████████████████░░░  88%
+drwxr-xr-x  css            █████████████████████░  95%
+drwxr-xr-x  tailwind       ████████████████░░░░░░  80%
+drwxr-xr-x  zustand        ██████████████░░░░░░░░  75%
+drwxr-xr-x  nodejs         ███████████████░░░░░░░  78%
+-rw-r--r--  git            ████████████████████░░  92%
+-rw-r--r--  figma          ██████████████░░░░░░░░  70%
+```
+
+---
+
+## <img src="https://img.shields.io/badge/$-ps_aux_|_grep_projects-00d4aa?style=flat-square&logo=gnu-bash&logoColor=00d4aa&labelColor=0d1117">
+
+```
+PID     NAME                 STATUS      TECH STACK
+──────  ───────────────────  ──────────  ──────────────────────────────
+1337    task-manager         🟢 LIVE     React · Next.js · DnD · Zustand
+2048    css-animations       🟢 LIVE     Pure CSS · 40+ Effects · GH Pages
+0001    next-project         🟡 WIP      Next.js · TypeScript · TBD
+```
+
+---
+
+## <img src="https://img.shields.io/badge/$-cat_~/stats.json-ff00ff?style=flat-square&logo=json&logoColor=ff00ff&labelColor=0d1117">
+
+```json
+{
+  "user": "ceps12",
+  "role": "Frontend Developer",
+  "location": "Earth",
+  "timezone": "UTC+Coding",
+  "editor": "VS Code",
+  "terminal": "PowerShell / Bash",
+  "coffee_consumed": "∞",
+  "bugs_created": 0,
+  "bugs_fixed": "all_of_them",
+  "favorite_css_property": "animation",
+  "currently_learning": ["Next.js", "Advanced CSS", "Zustand"],
+  "interests": ["UI/UX", "Animations", "Clean Code", "Open Source"]
+}
+```
+
+---
+
+## <img src="https://img.shields.io/badge/$-tree_~/github-00ff41?style=flat-square&logo=gnu-bash&logoColor=00ff41&labelColor=0d1117">
+
+```
+~/github/
+├── 📁 task-manager/
+│   ├── 📄 next.config.ts
+│   ├── 📁 src/
+│   │   ├── 📁 components/Board/
+│   │   ├── 📁 store/
+│   │   └── 📄 app/page.tsx
+│   └── 🚀 Live: https://ceps12.github.io/task-manager/
+│
+├── 📁 css-animations/
+│   ├── 📄 index.html
+│   ├── 📄 styles.css
+│   └── 🚀 Live: https://ceps12.github.io/css-animations/
+│
+└── 📁 ceps12/
+    └── 📄 README.md   <-- you are here
+```
+
+---
+
+## <img src="https://img.shields.io/badge/$-ssh_ceps12@github.com-00d4aa?style=flat-square&logo=gnuprivacyguard&logoColor=00d4aa&labelColor=0d1117">
+
+```
+The authenticity of host 'github.com' can't be established.
+Are you sure you want to continue connecting (yes/no)? yes
+
+Warning: Permanently added 'github.com' to the list of known hosts.
+
+ceps12@github:~$ █
+```
 
 <div align="center">
 
-<!-- Languages -->
-<h4>Languages</h4>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+```
+╔═══════════════════════════════════════════════════════╗
+║  > Connection established. Welcome to my codebase.    ║
+║  > Feel free to explore repositories above.           ║
+║  > Ping me if you want to collaborate!                ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-<!-- Frontend -->
-<h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,sass,tailwind" />
+<img src="https://komarev.com/ghpvc/?username=ceps12&color=00ff41&style=flat-square&label=Visitors">
 
-<!-- Tools -->
-<h4>Tools & Platforms</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,nodejs" />
-
-</div>
-
-<br>
-
-<!-- Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceps12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceps12&theme=tokyonight&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="165" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceps12&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&stroke=6366f1&ring=6366f1&fire=ec4899&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-</div>
-
-<br>
-
-<!-- Trophies -->
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceps12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<br>
-
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/ceps12/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceps12&repo=task-manager&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/ceps12/css-animations">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceps12&repo=css-animations&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ceps12/ceps12/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ceps12/ceps12/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ceps12/ceps12/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
