@@ -81,8 +81,8 @@ $ htop --github-stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ceps12&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceps12&theme=chartreuse-dark&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ceps12&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ceps12&theme=chartreuse-dark&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" />
 
 <br>
 
@@ -105,11 +105,11 @@ $ ls -la ~/projects/
 <div align="center">
 
 <a href="https://github.com/ceps12/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceps12&repo=task-manager&theme=chartreuse-dark&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ceps12&repo=task-manager&theme=chartreuse-dark&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/ceps12/css-animations">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceps12&repo=css-animations&theme=chartreuse-dark&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ceps12&repo=css-animations&theme=chartreuse-dark&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
 </a>
 
 </div>
