@@ -153,6 +153,9 @@ $ ping ceps12
 <a href="https://t.me/Cepsik23">
   <img src="https://img.shields.io/badge/Telegram-@Cepsik23-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
 </a>
+<a href="mailto:frogjk34@gmail.com">
+  <img src="https://img.shields.io/badge/Email-frogjk34@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
 <a href="https://github.com/ceps12">
   <img src="https://img.shields.io/badge/GitHub-ceps12-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
