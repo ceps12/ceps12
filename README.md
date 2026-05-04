@@ -1,5 +1,5 @@
 ﻿<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        NEON TERMINAL v3.0                       -->
+<!--                        NEON TERMINAL v4.0                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -130,16 +130,13 @@ $ cat ~/projects/README.md
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ```bash
-$ ./snake_animation --dark-mode
+$ ./snake_animation --render
 ```
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ceps12/ceps12/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ceps12/ceps12/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ceps12/ceps12/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- Snake animation - auto-updates daily -->
+<img src="https://raw.githubusercontent.com/ceps12/ceps12/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
